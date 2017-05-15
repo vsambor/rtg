@@ -1,0 +1,33 @@
+{
+  "name": "random-teams-generator",
+  "version": "1.0.0",
+  "description": "Random Team Generator (RTG) is a progressive web application which generates teams randomly.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsambor/random-teams-generator.git"
+  },
+  "keywords": [
+    "random",
+    "teams",
+    "generator",
+    "RTG",
+    "tziuka",
+    "vasile",
+    "sambor"
+  ],
+  "author": "Vasile Sambor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsambor/random-teams-generator/issues"
+  },
+  "homepage": "https://github.com/vsambor/random-teams-generator#readme",
+  "devDependencies": {
+    "bulma": "^0.4.1",
+    "vue": "^2.3.3",
+    "webpack": "^2.5.1"
+  }
+}
